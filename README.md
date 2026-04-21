@@ -32,6 +32,7 @@ Ensure you have `uv` installed. If not, get it from [astral.sh/uv](https://astra
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+Compatibility: Tested with Luna Translator v10.15.6.30( https://github.com/HIllya51/LunaTranslator/releases/tag/v10.15.6.30 )
 Luna Translator Configuration
 Translator: General LLM / OpenAI
 
